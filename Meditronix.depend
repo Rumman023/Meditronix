@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1684615496 source:c:\users\fariya ahmed\desktop\medical store inventory\meditronix\shop owner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"ShopOwner.h"
+
+1684614543 source:c:\users\fariya ahmed\desktop\medical store inventory\meditronix\array.c
+	"Array.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1682975736 c:\users\fariya ahmed\desktop\medical store inventory\meditronix\array.h
+
+1682887053 source:c:\users\fariya ahmed\desktop\medical store inventory\meditronix\expirycheck.c
+	"ExpiryCheck.h"
+	<time.h>
+	<string.h>
+	"Array.h"
+
+1682886418 c:\users\fariya ahmed\desktop\medical store inventory\meditronix\expirycheck.h
+	"Array.h"
+
+1684660936 source:c:\users\fariya ahmed\desktop\medical store inventory\meditronix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"ShopOwner.h"
+	"Customer.h"
+	"Doctor.h"
+
+1682623131 c:\users\fariya ahmed\desktop\medical store inventory\meditronix\shopowner.h
+	"Array.h"
+
+1684616831 c:\users\fariya ahmed\desktop\medical store inventory\meditronix\customer.h
+	<string.h>
+	"Array.h"
+
+1684686847 source:c:\users\fariya ahmed\desktop\medical store inventory\meditronix\customer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"Customer.h"
+
+1684686914 source:c:\users\fariya ahmed\desktop\medical store inventory\meditronix\customers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"Customer.h"
+
+1684660873 c:\users\fariya ahmed\desktop\medical store inventory\meditronix\doctor.h
+	<string.h>
+
+1684668970 source:c:\users\fariya ahmed\desktop\medical store inventory\meditronix\doctor.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Doctor.h"
+	"Array.h"
+	"ExpiryCheck.h"
+	"Customer.h"
+
+1684687650 source:c:\users\asus\desktop\iut 2nd semester\meditronix\array.c
+	"Array.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1684687650 c:\users\asus\desktop\iut 2nd semester\meditronix\array.h
+
+1684687650 source:c:\users\asus\desktop\iut 2nd semester\meditronix\customer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"Customer.h"
+
+1684687650 c:\users\asus\desktop\iut 2nd semester\meditronix\expirycheck.h
+	"Array.h"
+
+1684687650 c:\users\asus\desktop\iut 2nd semester\meditronix\customer.h
+	<string.h>
+	"Array.h"
+
+1684687650 source:c:\users\asus\desktop\iut 2nd semester\meditronix\customers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"Customer.h"
+
+1684687650 source:c:\users\asus\desktop\iut 2nd semester\meditronix\doctor.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Doctor.h"
+	"Array.h"
+	"ExpiryCheck.h"
+	"Customer.h"
+
+1684687650 c:\users\asus\desktop\iut 2nd semester\meditronix\doctor.h
+	<string.h>
+
+1684687650 source:c:\users\asus\desktop\iut 2nd semester\meditronix\expirycheck.c
+	"ExpiryCheck.h"
+	<time.h>
+	<string.h>
+	"Array.h"
+
+1684687650 source:c:\users\asus\desktop\iut 2nd semester\meditronix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"ShopOwner.h"
+	"Customer.h"
+	"Doctor.h"
+
+1684687651 c:\users\asus\desktop\iut 2nd semester\meditronix\shopowner.h
+	"Array.h"
+
+1684687651 source:c:\users\asus\desktop\iut 2nd semester\meditronix\shop owner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Array.h"
+	"ExpiryCheck.h"
+	"ShopOwner.h"
+

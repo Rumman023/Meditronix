@@ -1,0 +1,202 @@
+Prescription Code: KViQ…
+
+Patient Number: 43452
+Number of Medicine: 1
+Name: Rumman Adib
+Age: 21
+Gender: Male
+Medication 1:
+Name: dlkasldlak
+Dosage: 32324
+Quantity: 34324
+Frequency: dfmsfkasfd asf as
+
+
+Prescription Code: P1T9
+
+Patient Number: 7189
+Number of Medicine: 1
+Name: Fariya Ahmed
+Age: 21
+Gender: F
+Medication 1:
+Name: kdaksmdas asdas
+Dosage: 3232
+Quantity: 32442
+Frequency: dfsdfsd dsfsdf sdf 
+
+
+Prescription Code: NP15[
+
+Patient Number: 59158
+Number of Medicine: 1
+Name: Rumman Adib
+Age: 21
+Gender: M
+Medication 1:
+Name: sdfsdjnnd dsf
+Dosage: 2434
+Quantity: 32432
+Frequency: sdfsdf dsfsdf sdfs
+
+
+Prescription Code: Q8k73
+
+Patient Number: 38973
+Number of Medicine: 1
+Name: Rumman Adib
+Age: 34
+Gender: male
+Medication 1:
+Name: sddfsdfssd dsf
+Dosage: 43534 gfd
+Quantity: 2434234
+Frequency: ssdfsdf sdfsdf fsdf
+
+
+Prescription Code: Pc3N3
+
+Patient Number: 75363
+Number of Medicine: 2
+Name: Rumman Adib
+Age: 22
+Gender: Male
+Medication 1:
+Name: fkdskfj dsfd
+Dosage: 3434 df
+Quantity: 3434
+Frequency: dsfds dfdsf sdf
+
+Medication 2:
+Name: dsfdkfskdm
+Dosage: 3434 fd
+Quantity: 65656
+Frequency: fgdfgdf gfdgdfg df g
+
+
+Prescription Code: J57YS
+
+Patient Number: 15770
+Number of Medicine: 1
+Name: Rumman Adib
+Age: 22
+Gender: Male
+Medication 1:
+Name: kilofetron
+Dosage: 30 mg
+Quantity: 1
+Frequency: box
+
+
+Prescription Code: Q24I0
+
+Patient Number: 52450
+Number of Medicine: 1
+Name: Rumman Adib
+Age: 22
+Gender: Male
+Medication 1:
+Name: Napa
+Dosage: 12 pcs
+Quantity: 23
+Frequency: dsfdsfk dfsdf dsffsd
+
+
+Prescription Code: S41HF
+
+Patient Number: 94164
+Number of Medicine: 1
+Name: Fariya Ahmed
+Age: 21
+Gender: Female
+Medication 1:
+Name: sdvfdsff dfssd34
+Dosage: 3443 dfasdf
+Quantity: 454
+Frequency: xfgsdfg  sdfdsf 43
+
+
+Prescription Code: QŠ7K~
+
+Patient Number: 58799
+Number of Medicine: 2
+Name: Ahmed Rafid
+Age: 20
+Gender: Male
+Medication 1:
+Name: iasdfdfk
+Dosage: 45 edsf
+Quantity: 343
+Frequency: sdfjn adfa asd 
+
+Medication 2:
+Name: askdjak
+Dosage: 455 df
+Quantity: 3456
+Frequency: ghhjf fdgdf 567
+
+
+Prescription Code: U55Y8
+
+Patient Number: 35588
+Number of Medicine: 5
+Name: Fariya Ahmed
+Age: 21
+Gender: Female
+Medication 1:
+Name: Oxymed_50mg
+Dosage: 1
+Quantity: 1
+Frequency: once a day
+
+Medication 2:
+Name: Azmasol
+Dosage: 2
+Quantity: 2
+Frequency: once a week
+
+Medication 3:
+Name: Telmed_50mg
+Dosage: 2
+Quantity: 2
+Frequency: once a day
+
+Medication 4:
+Name: Urosol_200mg
+Dosage: 1
+Quantity: 2
+Frequency: once a day
+
+Medication 5:
+Name: Cardovis_5mg
+Dosage: 1
+Quantity: 1
+Frequency: once a week
+
+
+Prescription Code: S75V1
+
+Patient Number: 27511
+Number of Medicine: 3
+Name: Fariya Ahmed
+Age: 21
+Gender: Female
+Medication 1:
+Name: Bexitrol
+Dosage: 2
+Quantity: 2
+Frequency: once a day
+
+Medication 2:
+Name: Dettol_50mg
+Dosage: 2
+Quantity: 1
+Frequency: Once a week
+
+Medication 3:
+Name: Pansol_40mg
+Dosage: 1
+Quantity: 2
+Frequency: twice a day
+
+

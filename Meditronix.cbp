@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Meditronix" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Meditronix" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Meditronix" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Array.h" />
+		<Unit filename="Customer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Customer.h" />
+		<Unit filename="Customers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Doctor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Doctor.h" />
+		<Unit filename="ExpiryCheck.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ExpiryCheck.h" />
+		<Unit filename="Shop Owner.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ShopOwner.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
